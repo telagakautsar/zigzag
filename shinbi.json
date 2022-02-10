@@ -1,0 +1,107 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+ "Wallpaper":
+  [
+    {
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/1.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/2.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/3.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/4.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/5.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/6.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/7.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/8.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/9.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/10.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/11.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/12.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/13.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/14.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/15.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/16.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/17.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/18.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/19.jpg"
+    },
+	{
+      "title":"Shinbi House",
+      "image":"https://kerikil.xyz/zigzag/shinbi/20.jpg"
+    }
+    
+  ]
+}
